@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Workshop Syllabus"
+date:   2023-08-22 13:49:46 -0700
+categories: course update
+---
+
+<object data="../Calc_1_workshop_syllabus.pdf" width="1000" height="1000" type='application/pdf'></object>
