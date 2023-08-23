@@ -5,4 +5,4 @@ date:   2023-08-22 13:49:46 -0700
 categories: course update
 ---
 
-<object data="{{chrisdongwon.github.io}}{{Calculus1-Workshop-Fall23}}/Calc_1_workshop_syllabus.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://chrisdongwon.github.io/Calculus1-Workshop-Fall23/Calc_1_workshop_syllabus.pdf" width="1000" height="1000" type='application/pdf'></object>
